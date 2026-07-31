@@ -23,7 +23,13 @@ node scripts/make-privacy-public.mjs     # docs/privacy-public/ を作りなお�
 | アプリ | ページ |
 |---|---|
 | しゃかいクエスト！（社会科） | [social-studies/privacy.html](social-studies/privacy.html) |
-| えいけん5級チャレンジ！ | [eiken-5/privacy.html](eiken-5/privacy.html) |
-| えいけん4級チャレンジ！ | [eiken-4/privacy.html](eiken-4/privacy.html) |
-| えいけん3級チャレンジ！ | [eiken-3/privacy.html](eiken-3/privacy.html) |
-| えいけん準2級チャレンジ！ | [eiken-pre2/privacy.html](eiken-pre2/privacy.html) |
+| りかクエスト！（理科） | [rika/privacy.html](rika/privacy.html) |
+| かんじクエスト！10級（漢字） | [kanken-10/privacy.html](kanken-10/privacy.html) |
+| えいごクエスト！5級 | [eiken-5/privacy.html](eiken-5/privacy.html) |
+| えいごクエスト！4級 | [eiken-4/privacy.html](eiken-4/privacy.html) |
+| えいごクエスト！3級 | [eiken-3/privacy.html](eiken-3/privacy.html) |
+| えいごクエスト！準2級 | [eiken-pre2/privacy.html](eiken-pre2/privacy.html) |
+| えいごクエスト！準2級プラス | [eiken-pre2-plus/privacy.html](eiken-pre2-plus/privacy.html) |
+| えいごクエスト！2級 | [eiken-2/privacy.html](eiken-2/privacy.html) |
+| えいごクエスト！準1級 | [eiken-pre1/privacy.html](eiken-pre1/privacy.html) |
+| えいごクエスト！1級 | [eiken-1/privacy.html](eiken-1/privacy.html) |
